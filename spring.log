@@ -1,8 +1,0 @@
-2023-02-20 16:04:33.673  INFO [Elk Demo,,] 28108 --- [main] com.spring.elk.ElkDemoApplicationTests   : Starting ElkDemoApplicationTests using Java 11.0.17 on Jino with PID 28108 (started by jinoi in C:\Projects\ElkDemo)
-2023-02-20 16:04:33.698  INFO [Elk Demo,,] 28108 --- [main] com.spring.elk.ElkDemoApplicationTests   : No active profile set, falling back to 1 default profile: "default"
-2023-02-20 16:04:36.483  INFO [Elk Demo,,] 28108 --- [main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=0e5a785d-c3bb-3b42-8732-4c32d90533f0
-2023-02-20 16:04:45.824  INFO [Elk Demo,,] 28108 --- [main] com.spring.elk.ElkDemoApplicationTests   : Started ElkDemoApplicationTests in 14.4 seconds (JVM running for 22.139)
-2023-02-20 16:06:25.292  INFO [Elk Demo,,] 29800 --- [main] com.spring.elk.ElkDemoApplicationTests   : Starting ElkDemoApplicationTests using Java 11.0.17 on Jino with PID 29800 (started by jinoi in C:\Projects\ElkDemo)
-2023-02-20 16:06:25.297  INFO [Elk Demo,,] 29800 --- [main] com.spring.elk.ElkDemoApplicationTests   : No active profile set, falling back to 1 default profile: "default"
-2023-02-20 16:06:27.475  INFO [Elk Demo,,] 29800 --- [main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=0e5a785d-c3bb-3b42-8732-4c32d90533f0
-2023-02-20 16:06:33.866  INFO [Elk Demo,,] 29800 --- [main] com.spring.elk.ElkDemoApplicationTests   : Started ElkDemoApplicationTests in 9.829 seconds (JVM running for 13.03)
