@@ -11,25 +11,27 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 import org.springframework.context.annotation.Bean;
+import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
 @RestController
+@RequestMapping("/test")
 public class ElkController {
 	
 	@SuppressWarnings("unused")
 	private static final Logger Log= LogManager.getLogger(ElkController.class);
-	
-	//@Autowired
-	RestTemplate restTemplate;
-	
-	@Bean
-	RestTemplate restTemplate() {
-		return new RestTemplate();
+
+
+
+	@GetMapping("/check")
+	public String main() {
+		return  "OK";
 	}
 	
-	@RequestMapping( value="/elkmsg")
+	@RequestMapping( value="/elkmsg",method = RequestMethod.GET)
 	public String getMessage() {
 		
 		String response = "Welcome to Elk Testing with Log4J2 "+ new Date();
