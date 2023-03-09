@@ -1,0 +1,30 @@
+2023-03-09 12:22:43.539  INFO 22376 --- [main] com.spring.elk.ElkDemoApplicationTests   : Starting ElkDemoApplicationTests using Java 11.0.18 on IBM-PF2SARR8 with PID 22376 (started by 01012F744 in C:\Projects\ElkDemo)
+2023-03-09 12:22:43.541  INFO 22376 --- [main] com.spring.elk.ElkDemoApplicationTests   : No active profile set, falling back to 1 default profile: "default"
+2023-03-09 12:22:44.338  INFO 22376 --- [main] c.a.s.p.internal.LambdaContainerHandler  : Starting Lambda Container Handler
+2023-03-09 12:22:44.512  INFO 22376 --- [main] o.a.maven.surefire.booter.ForkedBooter   : Starting ForkedBooter v2.22.2 using Java 11.0.18 on IBM-PF2SARR8 with PID 22376 (started by 01012F744 in C:\Projects\ElkDemo)
+2023-03-09 12:22:44.512  INFO 22376 --- [main] o.a.maven.surefire.booter.ForkedBooter   : No active profile set, falling back to 1 default profile: "default"
+2023-03-09 12:33:43.697  INFO 13316 --- [main] com.spring.elk.ElkDemoApplicationTests   : Starting ElkDemoApplicationTests using Java 11.0.18 on IBM-PF2SARR8 with PID 13316 (started by 01012F744 in C:\Projects\ElkDemo)
+2023-03-09 12:33:43.704  INFO 13316 --- [main] com.spring.elk.ElkDemoApplicationTests   : No active profile set, falling back to 1 default profile: "default"
+2023-03-09 12:33:44.961  INFO 13316 --- [main] c.a.s.p.internal.LambdaContainerHandler  : Starting Lambda Container Handler
+2023-03-09 12:33:45.232  INFO 13316 --- [main] o.a.maven.surefire.booter.ForkedBooter   : Starting ForkedBooter v2.22.2 using Java 11.0.18 on IBM-PF2SARR8 with PID 13316 (started by 01012F744 in C:\Projects\ElkDemo)
+2023-03-09 12:33:45.232  INFO 13316 --- [main] o.a.maven.surefire.booter.ForkedBooter   : No active profile set, falling back to 1 default profile: "default"
+2023-03-09 12:48:18.367  INFO 25816 --- [main] com.spring.elk.ElkDemoApplicationTests   : Starting ElkDemoApplicationTests using Java 17.0.6 on IBM-PF2SARR8 with PID 25816 (started by 01012F744 in C:\Projects\ElkDemo)
+2023-03-09 12:48:18.373  INFO 25816 --- [main] com.spring.elk.ElkDemoApplicationTests   : No active profile set, falling back to 1 default profile: "default"
+2023-03-09 12:48:19.391  INFO 25816 --- [main] c.a.s.p.internal.LambdaContainerHandler  : Starting Lambda Container Handler
+2023-03-09 12:48:19.721  INFO 25816 --- [main] o.a.maven.surefire.booter.ForkedBooter   : Starting ForkedBooter v2.22.2 using Java 17.0.6 on IBM-PF2SARR8 with PID 25816 (started by 01012F744 in C:\Projects\ElkDemo)
+2023-03-09 12:48:19.723  INFO 25816 --- [main] o.a.maven.surefire.booter.ForkedBooter   : No active profile set, falling back to 1 default profile: "default"
+2023-03-09 12:51:04.404  INFO 6180 --- [main] com.spring.elk.ElkDemoApplicationTests   : Starting ElkDemoApplicationTests using Java 17.0.6 on IBM-PF2SARR8 with PID 6180 (started by 01012F744 in C:\Projects\ElkDemo)
+2023-03-09 12:51:04.405  INFO 6180 --- [main] com.spring.elk.ElkDemoApplicationTests   : No active profile set, falling back to 1 default profile: "default"
+2023-03-09 12:51:04.982  INFO 6180 --- [main] c.a.s.p.internal.LambdaContainerHandler  : Starting Lambda Container Handler
+2023-03-09 12:51:05.193  INFO 6180 --- [main] o.a.maven.surefire.booter.ForkedBooter   : Starting ForkedBooter v2.22.2 using Java 17.0.6 on IBM-PF2SARR8 with PID 6180 (started by 01012F744 in C:\Projects\ElkDemo)
+2023-03-09 12:51:05.194  INFO 6180 --- [main] o.a.maven.surefire.booter.ForkedBooter   : No active profile set, falling back to 1 default profile: "default"
+2023-03-09 12:53:30.144  INFO 26108 --- [main] com.spring.elk.ElkDemoApplicationTests   : Starting ElkDemoApplicationTests using Java 17.0.6 on IBM-PF2SARR8 with PID 26108 (started by 01012F744 in C:\Projects\ElkDemo)
+2023-03-09 12:53:30.146  INFO 26108 --- [main] com.spring.elk.ElkDemoApplicationTests   : No active profile set, falling back to 1 default profile: "default"
+2023-03-09 12:53:30.707  INFO 26108 --- [main] c.a.s.p.internal.LambdaContainerHandler  : Starting Lambda Container Handler
+2023-03-09 12:53:30.846  INFO 26108 --- [main] o.a.maven.surefire.booter.ForkedBooter   : Starting ForkedBooter v2.22.2 using Java 17.0.6 on IBM-PF2SARR8 with PID 26108 (started by 01012F744 in C:\Projects\ElkDemo)
+2023-03-09 12:53:30.847  INFO 26108 --- [main] o.a.maven.surefire.booter.ForkedBooter   : No active profile set, falling back to 1 default profile: "default"
+2023-03-09 13:00:29.238  INFO 12532 --- [main] com.spring.elk.ElkDemoApplicationTests   : Starting ElkDemoApplicationTests using Java 11.0.18 on IBM-PF2SARR8 with PID 12532 (started by 01012F744 in C:\Projects\ElkDemo)
+2023-03-09 13:00:29.241  INFO 12532 --- [main] com.spring.elk.ElkDemoApplicationTests   : No active profile set, falling back to 1 default profile: "default"
+2023-03-09 13:00:29.945  INFO 12532 --- [main] c.a.s.p.internal.LambdaContainerHandler  : Starting Lambda Container Handler
+2023-03-09 13:00:30.128  INFO 12532 --- [main] o.a.maven.surefire.booter.ForkedBooter   : Starting ForkedBooter v2.22.2 using Java 11.0.18 on IBM-PF2SARR8 with PID 12532 (started by 01012F744 in C:\Projects\ElkDemo)
+2023-03-09 13:00:30.129  INFO 12532 --- [main] o.a.maven.surefire.booter.ForkedBooter   : No active profile set, falling back to 1 default profile: "default"
